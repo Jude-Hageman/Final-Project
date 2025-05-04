@@ -1,0 +1,25 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f8f9fa;
+  background-image: url('./assets/cloud.png'), url('./assets/cloud.png');
+  background-repeat: no-repeat, no-repeat;
+  background-position: left center, right center;
+  background-size: 10000px auto, 10000px auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+#app-container {
+  max-width: 700px;
+  height: 700px;
+  background-color: white;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+}
