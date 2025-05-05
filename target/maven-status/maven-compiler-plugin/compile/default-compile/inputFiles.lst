@@ -1,0 +1,9 @@
+/Users/judehageman/spiritual-text-query-project/spiritual-text-query-backend/src/main/java/com/example/SpiritualTextQueryApplication.java
+/Users/judehageman/spiritual-text-query-project/spiritual-text-query-backend/src/main/java/com/example/config/LlamaConfig.java
+/Users/judehageman/spiritual-text-query-project/spiritual-text-query-backend/src/main/java/com/example/config/RestTemplateConfig.java
+/Users/judehageman/spiritual-text-query-project/spiritual-text-query-backend/src/main/java/com/example/config/WebConfig.java
+/Users/judehageman/spiritual-text-query-project/spiritual-text-query-backend/src/main/java/com/example/controller/BibleSearchController.java
+/Users/judehageman/spiritual-text-query-project/spiritual-text-query-backend/src/main/java/com/example/controller/LlamaController.java
+/Users/judehageman/spiritual-text-query-project/spiritual-text-query-backend/src/main/java/com/example/service/ESVService.java
+/Users/judehageman/spiritual-text-query-project/spiritual-text-query-backend/src/main/java/com/example/service/LlamaService.java
+/Users/judehageman/spiritual-text-query-project/spiritual-text-query-backend/src/main/java/com/example/util/BibleReferenceParser.java
